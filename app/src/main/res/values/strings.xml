@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ian</string>
+    <string name="title_activity_about">AboutActivity</string>
+    <string name="title_activity_contact">ContactActivity</string>
+    <string name="title_activity_homw2">HomwActivity2</string>
+    <string name="title_activity_login">LoginActivity</string>
+    <string name="title_activity_bot">BotActivity</string>
+</resources>
